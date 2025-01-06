@@ -2,8 +2,6 @@
 
 ## 📚 Project Description
 
-Brainwave is a 
-
 Brainwave is a web page about artificial intelligence, developed exclusively for Frontend.
 Elements that generally require integration with the backend, such as the "Sign In" button, are for illustration purposes only and do not have implemented functionality.
 
