@@ -15,7 +15,7 @@ This project was developed using:
 
 ## ⚙️ Installation
 
-Para instalar as dependências do projeto, execute o comando:  
+To install the dependencies, run the command:
 
 ```bash
 npm install
